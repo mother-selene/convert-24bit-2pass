@@ -68,7 +68,7 @@ Some settings may be configurable via command-line arguments. Check the script's
 | Setting | Default Value | Description |
 |---------|---------------|-------------|
 | Loudness Target | -14 LUFS (editable) | EBU R128 standard target loudness |
-| Channels | 2 (Stereo) | Stereo, Mono, or 5.1 Surround |
+| Channels | 1 (Stereo) | Stereo, Mono, or 5.1 Surround |
 | Sample Rate | 44100 Hz | CD quality audio sampling rate |
 | Input Directory | `source/` | Folder containing source files |
 | Output Directory | `2pass-output/` | Where converted files are saved |
